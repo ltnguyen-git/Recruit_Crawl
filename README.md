@@ -1,6 +1,6 @@
 # Recruit_Data_Crawl
 
-This is a simple data crawler project that scrapes data from websites
+This is a example data crawler project that scrapes data from websites
 
 ## Features
 - Crawl data from websites using Python
